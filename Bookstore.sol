@@ -1,6 +1,6 @@
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.0;
-contract BookStore{
+contract MyBookStore{
     //a state variable of the address of the owner
     address public owner;
     //a state variable of the premium price
